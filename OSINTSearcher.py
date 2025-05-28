@@ -4,6 +4,7 @@ Comprehensive background research across multiple platforms
 """
 # Author: Arshia Keshvari
 # Date: 2025-05-27
+
 import webbrowser
 import urllib.parse
 import time
@@ -335,7 +336,7 @@ def main():
     print("=" * 40)
     print("⚠️  ETHICAL USE ONLY")
     print("This tool is designed for legitimate purposes:")
-    print("• Background checks for employment")
+    print("• Background checks")
     print("• Journalism and research")
     print("• Cybersecurity investigations")
     print("• Due diligence processes")
