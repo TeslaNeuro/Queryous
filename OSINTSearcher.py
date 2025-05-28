@@ -334,6 +334,7 @@ class OSINTSearchGUI:
 def main():
     print("OSINT People Investigation Tool")
     print("=" * 40)
+    print()
     print("⚠️  ETHICAL USE ONLY")
     print("This tool is designed for legitimate purposes:")
     print("• Background checks")
