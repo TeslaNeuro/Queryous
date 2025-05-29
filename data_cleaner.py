@@ -82,7 +82,7 @@ if uploaded_file:
             st.success("Duplicates removed.")
 
     with st.expander("🔤 String Operations"):
-        str_cols = df.select_dtypes(include=str).columns.tolist()
+        str_cols = df.select_dtypes(include=["object"]).columns.tolist()
         if str_cols:
             col = st.selectbox("Choose a string column", str_cols)
             op = st.selectbox("Operation", ["Lowercase", "Uppercase", "Trim whitespace", "Replace text"])
