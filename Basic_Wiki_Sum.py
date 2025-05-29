@@ -1,6 +1,7 @@
-# Basic Research Tool using Streamlit and Wikipedia
-# To summarize information about a thing from Wikipedia
-
+"""""
+ Basic Research Tool using Streamlit and Wikipedia
+ To summarize information about a thing from Wikipedia
+"""""
 # TO RUN:
 # streamlit run Basic_Wiki_Sum.py
 
